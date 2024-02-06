@@ -62,7 +62,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-  h1>Integrated Ansible and Docker hub.</h1>
+  <h1>Integrated Ansible and Docker hub.</h1>
   <h1>Al xamdu Lillah !!!!</h1>
   <h1>Thankyou, Happy Learning</h1>
   <h1>Updated by Hassan</h1>
